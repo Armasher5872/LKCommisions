@@ -1,1 +1,0 @@
-cargo skyline install --install-path rom:/smashline/development.nro
